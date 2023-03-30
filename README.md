@@ -14,7 +14,7 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 
 6- Kurulum tamamlanıp sistem yeniden başladıktan sonra USB belleğinizi çıkartın.
 
-7- Karşınıza gelen OOBE (kullanıcı kurulum ekranı) üzerindeki yönlendirmeleri yaptıktan sonra sisteminiz birkaç kere yeniden başlayabilir, sabırlı olun.
+7- Kurulum sonrası sisteminiz birkaç kere yeniden başlayabilir, sabırlı olun.
 
 8- Sistem açıldıktan sonra karşınıza gelen pencereyi sakın **kapatmayın!**
 
