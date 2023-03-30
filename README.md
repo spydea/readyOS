@@ -3,13 +3,21 @@
 myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir sorunda **tüm sorumluluk size aittir**, ama elimden geldiğince yardım edebilirim.
 ## 📥 **Nasıl İndirilir?**
 1- myOS ISO dosyasını indirip [Rufus](https://rufus.ie/) aracılığı ile USB belleğinize yazdırın.
+
 2- Sisteminizi yeniden başlatın ve BOOT menünüze giriş yapın.
+
 3- BOOT menüsü üzerinden USB belleğinizi seçin.
+
 4- USB ile sistemi başlattıktan sonra karşınıza gelen [AOMEI Partiton Assistant](https://www.aomeitech.com/aomei-partition-assistant.html) penceresi üzerinden disk biçimlendirme işlemlerinizi yapın ve uygulama penceresini kapatın.
+
 5- [AOMEI Partiton Assistant](https://www.aomeitech.com/aomei-partition-assistant.html) penceresini kapattıktan sonra karşınıza gelen CMD penceresi üzerinde belirtilen yönlendirmelere uygun bir şekilde soruları cevaplayın.
+
 6- Kurulum tamamlanıp sistem yeniden başladıktan sonra USB belleğinizi çıkartın.
+
 7- Karşınıza gelen OOBE (kullanıcı kurulum ekranı) üzerindeki yönlendirmeleri yaptıktan sonra sisteminiz birkaç kere yeniden başlayabilir, sabırlı olun.
+
 8- Sistem açıldıktan sonra karşınıza gelen pencereyi sakın **kapatmayın!**
+
 9- myOS'u güle güle kullanın 👋
 ## ❌ **Desteklenmeyen Özellikler**
 - Windows Update
