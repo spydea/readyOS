@@ -46,6 +46,7 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 - Slimjet Web Browser *(Yüklemek kullanıcı tercihine bırakıldı.)*
 - myOS App Installer
 - 7-Zip
+- Kurulum Sonrası Sistem Optimizasyonu
 ## 🗑️ **Silinenler**
 - İşaretçi paketleri *(Aero paketi dışında.)*
 - UWP Uygulamalar *(Ayarlar uygulaması dışında.)*
