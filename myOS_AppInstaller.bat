@@ -16,7 +16,7 @@ dir /b "%ProgramData%\chocolatey" > NUL 2>&1
 :AppList
 cls
 mode con cols=51 lines=58
-title myBOX / Uygulama Listesi
+title myOS App Installer
 echo %R%[36m
 echo                         ████████ ████████
 echo                         █░░░░░░█ █░░░░░░░
