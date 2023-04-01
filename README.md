@@ -10,8 +10,9 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 
 4- Sistem USB ile boot edildikten sonra karşınıza bir ekran gelecek. O ekran üzerinden yapmak istediğiniz işlemin numarasını tuşlayın.
 
-#### Açıklamalar
-
+ <details>
+<summary>🔍 Seçenekler</summary>
+  
 **Windows'u Kur** *klasik Windows kurulumudur.*
 
 **AOMEI Partition Assistant** *Disk yönetim aracıdır.*
@@ -23,6 +24,8 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 **Şifre Kurtarma** *ntpwedit64 isimli uygulamadır. Windows hesap şifrenizi yönetmenizi sağlar.*
 
 **Disk Kurtarma** *recuva64 isimli uygulamadır. Silinen dosyalarınızı geri getirmeye yarar.*
+  
+</details> 
 
 5- Kurulum tamamlanıp sistem yeniden başladıktan sonra USB belleğinizi çıkartın.
 
