@@ -10,6 +10,8 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 
 4- Sistem USB ile boot edildikten sonra karşınıza bir ekran gelecek. O ekran üzerinden yapmak istediğiniz işlemin numarasını tuşlayın.
 
+#### Açıklamalar
+
 **Windows'u Kur** *klasik Windows kurulumudur.*
 
 **AOMEI Partition Assistant** *Disk yönetim aracıdır.*
