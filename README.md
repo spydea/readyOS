@@ -8,17 +8,27 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 
 3- BOOT menüsü üzerinden USB belleğinizi seçin.
 
-4- USB ile sistemi başlattıktan sonra karşınıza gelen [AOMEI Partiton Assistant](https://www.aomeitech.com/aomei-partition-assistant.html) penceresi üzerinden disk biçimlendirme işlemlerinizi yapın ve uygulama penceresini kapatın.
+4- Sistem USB ile boot edildikten sonra karşınıza bir ekran gelecek. O ekran üzerinden yapmak istediğiniz işlemin numarasını tuşlayın.
 
-5- [AOMEI Partiton Assistant](https://www.aomeitech.com/aomei-partition-assistant.html) penceresini kapattıktan sonra karşınıza gelen CMD penceresi üzerinde belirtilen yönlendirmelere uygun bir şekilde soruları cevaplayın.
+**Windows'u Kur** *klasik Windows kurulumudur.*
 
-6- Kurulum tamamlanıp sistem yeniden başladıktan sonra USB belleğinizi çıkartın.
+**AOMEI Partition Assistant** *Disk yönetim aracıdır.*
 
-7- Kurulum sonrası sisteminiz birkaç kere yeniden başlayabilir, sabırlı olun.
+**CPU-Z** *Sistem bilgilerini gösterir.*
 
-8- Sistem açıldıktan sonra karşınıza gelen pencereyi sakın **kapatmayın!**
+**Explorer++** *Dosyalarınızı gezmeye yarar. Klasik dosya gezginin alternatifidir.*
 
-9- myOS'u güle güle kullanın 👋
+**Şifre Kurtarma** *ntpwedit64 isimli uygulamadır. Windows hesap şifrenizi yönetmenizi sağlar.*
+
+**Disk Kurtarma** *recuva64 isimli uygulamadır. Silinen dosyalarınızı geri getirmeye yarar.*
+
+5- Kurulum tamamlanıp sistem yeniden başladıktan sonra USB belleğinizi çıkartın.
+
+6- Kurulum sonrası sisteminiz birkaç kere yeniden başlayabilir, sabırlı olun.
+
+7- Sistem açıldıktan sonra karşınıza gelen pencereyi sakın **kapatmayın!**
+
+8- myOS'u güle güle kullanın 👋
 ## ❌ **Desteklenmeyen Özellikler**
 - Windows Update
 - Microsoft Store
