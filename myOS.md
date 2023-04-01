@@ -2,38 +2,38 @@
 ## ❗️ **Bilgilendirme**
 myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir sorunda **tüm sorumluluk size aittir**, ama elimden geldiğince yardım edebilirim.
 ## 📥 **Nasıl İndirilir?**
-1- myOS ISO dosyasını indirip [Rufus](https://rufus.ie/) aracılığı ile USB belleğinize yazdırın.
+**1)** myOS ISO dosyasını indirip [Rufus](https://rufus.ie/) aracılığı ile USB belleğinize yazdırın.
 
-2- Sisteminizi yeniden başlatın ve BOOT menünüze giriş yapın.
+**2)** Sisteminizi yeniden başlatın ve BOOT menünüze giriş yapın.
 
-3- BOOT menüsü üzerinden USB belleğinizi seçin.
+**3)** BOOT menüsü üzerinden USB belleğinizi seçin.
 
-4- Sistem USB ile boot edildikten sonra karşınıza bir ekran gelecek. O ekran üzerinden yapmak istediğiniz işlemin numarasını tuşlayın.
+**4)** Sistem USB ile boot edildikten sonra karşınıza bir ekran gelecek. O ekran üzerinden yapmak istediğiniz işlemin numarasını tuşlayın.
 
  <details>
 <summary>🔍 Seçenekler</summary>
   
-**Windows'u Kur** *klasik Windows kurulumudur.*
+- **Windows'u Kur** *klasik Windows kurulumudur.*
 
-**AOMEI Partition Assistant** *Disk yönetim aracıdır.*
+- **AOMEI Partition Assistant** *Disk yönetim aracıdır.*
 
-**CPU-Z** *Sistem bilgilerini gösterir.*
+- **CPU-Z** *Sistem bilgilerini gösterir.*
 
-**Explorer++** *Dosyalarınızı gezmeye yarar. Klasik dosya gezginin alternatifidir.*
+- **Explorer++** *Dosyalarınızı gezmeye yarar. Klasik dosya gezginin alternatifidir.*
 
-**Şifre Kurtarma** *ntpwedit64 isimli uygulamadır. Windows hesap şifrenizi yönetmenizi sağlar.*
+- **Şifre Kurtarma** *ntpwedit64 isimli uygulamadır. Windows hesap şifrenizi yönetmenizi sağlar.*
 
-**Disk Kurtarma** *recuva64 isimli uygulamadır. Silinen dosyalarınızı geri getirmeye yarar.*
+- **Disk Kurtarma** *recuva64 isimli uygulamadır. Silinen dosyalarınızı geri getirmeye yarar.*
   
 </details> 
 
-5- Kurulum tamamlanıp sistem yeniden başladıktan sonra USB belleğinizi çıkartın.
+**5)** Kurulum tamamlanıp sistem yeniden başladıktan sonra USB belleğinizi çıkartın.
 
-6- Kurulum sonrası sisteminiz birkaç kere yeniden başlayabilir, sabırlı olun.
+**6)** Kurulum sonrası sisteminiz birkaç kere yeniden başlayabilir, sabırlı olun.
 
-7- Sistem açıldıktan sonra karşınıza gelen pencereyi sakın **kapatmayın!**
+**7)** Sistem açıldıktan sonra karşınıza gelen pencereyi sakın **kapatmayın!**
 
-8- myOS'u güle güle kullanın 👋
+**8)** myOS'u güle güle kullanın 👋
 ## ❌ **Desteklenmeyen Özellikler**
 - Windows Update
 - Microsoft Store
