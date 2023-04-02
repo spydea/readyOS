@@ -71,7 +71,7 @@ echo %R%[90m│%R%[31m • Kodlama%R%[0m                                       %
 echo %R%[90m│%R%[31m 30)%R%[0m Notepad++                                   %R%[90m│%R%[0m
 echo %R%[90m│%R%[31m 31)%R%[0m Python                                      %R%[90m│%R%[0m
 echo %R%[90m├─────────────────────────────────────────────────┤%R%[0m
-echo %R%[90m│%R%[31m  X)%R%[0m Ana Menü                                    %R%[90m│%R%[0m
+echo %R%[90m│%R%[31m  X)%R%[0m Çıkış                                       %R%[90m│%R%[0m
 echo %R%[90m└─────────────────────────────────────────────────┘%R%[0m
 set /p applist= %R%[36m ► Uygulama Numarası: %R%[0m
 	if %applist%==1 (set AppID=adobereader&set Title=Adobe Acrobat Reader DC&set AppMenu_X_Link=AppList&goto AppMenu)
