@@ -107,19 +107,25 @@ set /p applist= %R%[36m ► Uygulama Numarası: %R%[0m
 	if %applist%==31 (set AppID=python&set Title=Python&set AppMenu_X_Link=AppList&goto AppMenu)
 	if %applist%==X (exit)
 	if %applist%==x (exit)
+goto AppList
 
-goto AppList	
 :AppMenu
 cls
-mode con cols=51 lines=18
+mode con cols=51 lines=24
 title %Title%
+echo %R%[36m
+echo                         ████████ ████████
+echo                         █░░░░░░█ █░░░░░░░
+echo                         █░    ░█ █░
+echo           ███████ █   █ █░    ░█ ████████
+echo           █░░█░░█ █   █ █░    ░█ ░░░░░░░█
+echo           █░ ░ ░█ █   █ █░    ░█       ░█
+echo           █░   ░█ █████ ████████ ████████
+echo           ░░   ░░ ░░░░█ ░░░░░░░░ ░░░░░░░░
+echo                       █
+echo                   █████
+echo                   ░░░░░
 echo.
-echo  %R%[36m███%R%[90m╗   %R%[36m███%R%[90m╗ %R%[36m██%R%[90m╗   %R%[36m██%R%[90m╗ %R%[36m██████%R%[90m╗   %R%[36m██████%R%[90m╗  %R%[36m██%R%[90m╗  %R%[36m██%R%[90m╗%R%[0m
-echo  %R%[36m████%R%[90m╗ %R%[36m████%R%[90m║ ╚%R%[36m██%R%[90m╗ %R%[36m██%R%[90m╔╝ %R%[36m██%R%[90m╔══%R%[36m██%R%[90m╗ %R%[36m██%R%[90m╔═══%R%[36m██%R%[90m╗ ╚%R%[36m██%R%[90m╗%R%[36m██%R%[90m╔╝%R%[0m
-echo  %R%[36m██%R%[90m╔%R%[36m████%R%[90m╔%R%[36m██%R%[90m║  ╚%R%[36m████%R%[90m╔╝  %R%[36m██████%R%[90m╔╝ %R%[36m██%R%[90m║   %R%[36m██%R%[90m║  ╚%R%[36m███%R%[90m╔╝ %R%[0m
-echo  %R%[36m██%R%[90m║╚%R%[36m██%R%[90m╔╝%R%[36m██%R%[90m║   ╚%R%[36m██%R%[90m╔╝   %R%[36m██%R%[90m╔══%R%[36m██%R%[90m╗ %R%[36m██%R%[90m║   %R%[36m██%R%[90m║  %R%[36m██%R%[90m╔%R%[36m██%R%[90m╗ %R%[0m
-echo  %R%[36m██%R%[90m║ ╚═╝ %R%[36m██%R%[90m║    %R%[36m██%R%[90m║    %R%[36m██████%R%[90m╔╝ ╚%R%[36m██████%R%[90m╔╝ %R%[36m██%R%[90m╔╝ %R%[36m██%R%[90m╗%R%[0m
-echo  %R%[90m╚═╝     ╚═╝    ╚═╝    ╚═════╝   ╚═════╝  ╚═╝  ╚═╝%R%[0m
 echo         %R%[90m Spydea Tarafından Hazırlanmıştır.%R%[0m
 echo %R%[90m┌─────────────────────────────────────────────────┐%R%[0m
 echo %R%[90m│%R%[31m  1)%R%[0m Uygulamayı Yükle                            %R%[90m│%R%[0m
@@ -136,18 +142,25 @@ set /p appmenu= %R%[36m ► Yapacağınız İşlem: %R%[0m
 	if %appmenu%==4 (mode con cols=120 lines=70 & choco info %AppID% & pause & goto AppMenu)
 	if %appmenu%==x goto %AppMenu_X_Link%
 	if %appmenu%==X goto %AppMenu_X_Link%
-	
+goto AppMenu
+
 :Minecraft
 cls
-mode con cols=51 lines=20
+mode con cols=51 lines=26
 title Minecraft
+echo %R%[36m
+echo                         ████████ ████████
+echo                         █░░░░░░█ █░░░░░░░
+echo                         █░    ░█ █░
+echo           ███████ █   █ █░    ░█ ████████
+echo           █░░█░░█ █   █ █░    ░█ ░░░░░░░█
+echo           █░ ░ ░█ █   █ █░    ░█       ░█
+echo           █░   ░█ █████ ████████ ████████
+echo           ░░   ░░ ░░░░█ ░░░░░░░░ ░░░░░░░░
+echo                       █
+echo                   █████
+echo                   ░░░░░
 echo.
-echo  %R%[36m███%R%[90m╗   %R%[36m███%R%[90m╗ %R%[36m██%R%[90m╗   %R%[36m██%R%[90m╗ %R%[36m██████%R%[90m╗   %R%[36m██████%R%[90m╗  %R%[36m██%R%[90m╗  %R%[36m██%R%[90m╗%R%[0m
-echo  %R%[36m████%R%[90m╗ %R%[36m████%R%[90m║ ╚%R%[36m██%R%[90m╗ %R%[36m██%R%[90m╔╝ %R%[36m██%R%[90m╔══%R%[36m██%R%[90m╗ %R%[36m██%R%[90m╔═══%R%[36m██%R%[90m╗ ╚%R%[36m██%R%[90m╗%R%[36m██%R%[90m╔╝%R%[0m
-echo  %R%[36m██%R%[90m╔%R%[36m████%R%[90m╔%R%[36m██%R%[90m║  ╚%R%[36m████%R%[90m╔╝  %R%[36m██████%R%[90m╔╝ %R%[36m██%R%[90m║   %R%[36m██%R%[90m║  ╚%R%[36m███%R%[90m╔╝ %R%[0m
-echo  %R%[36m██%R%[90m║╚%R%[36m██%R%[90m╔╝%R%[36m██%R%[90m║   ╚%R%[36m██%R%[90m╔╝   %R%[36m██%R%[90m╔══%R%[36m██%R%[90m╗ %R%[36m██%R%[90m║   %R%[36m██%R%[90m║  %R%[36m██%R%[90m╔%R%[36m██%R%[90m╗ %R%[0m
-echo  %R%[36m██%R%[90m║ ╚═╝ %R%[36m██%R%[90m║    %R%[36m██%R%[90m║    %R%[36m██████%R%[90m╔╝ ╚%R%[36m██████%R%[90m╔╝ %R%[36m██%R%[90m╔╝ %R%[36m██%R%[90m╗%R%[0m
-echo  %R%[90m╚═╝     ╚═╝    ╚═╝    ╚═════╝   ╚═════╝  ╚═╝  ╚═╝%R%[0m
 echo         %R%[90m Spydea Tarafından Hazırlanmıştır.%R%[0m
 echo %R%[90m┌─────────────────────────────────────────────────┐%R%[0m
 echo %R%[90m│%R%[31m  1)%R%[0m Minecraft                                   %R%[90m│%R%[0m
@@ -168,18 +181,25 @@ set /p appmenu= %R%[36m ► Yapacağınız İşlem: %R%[0m
 	if %appmenu%==6 (set AppID=prismlauncher&set Title=Prism Launcher&set AppMenu_X_Link=Minecraft&goto AppMenu)
 	if %appmenu%==x goto AppList
 	if %appmenu%==X goto AppList
+goto Minecraft
 
 :LOL
 cls
-mode con cols=51 lines=17
+mode con cols=51 lines=23
 title League of Legends
+echo %R%[36m
+echo                         ████████ ████████
+echo                         █░░░░░░█ █░░░░░░░
+echo                         █░    ░█ █░
+echo           ███████ █   █ █░    ░█ ████████
+echo           █░░█░░█ █   █ █░    ░█ ░░░░░░░█
+echo           █░ ░ ░█ █   █ █░    ░█       ░█
+echo           █░   ░█ █████ ████████ ████████
+echo           ░░   ░░ ░░░░█ ░░░░░░░░ ░░░░░░░░
+echo                       █
+echo                   █████
+echo                   ░░░░░
 echo.
-echo  %R%[36m███%R%[90m╗   %R%[36m███%R%[90m╗ %R%[36m██%R%[90m╗   %R%[36m██%R%[90m╗ %R%[36m██████%R%[90m╗   %R%[36m██████%R%[90m╗  %R%[36m██%R%[90m╗  %R%[36m██%R%[90m╗%R%[0m
-echo  %R%[36m████%R%[90m╗ %R%[36m████%R%[90m║ ╚%R%[36m██%R%[90m╗ %R%[36m██%R%[90m╔╝ %R%[36m██%R%[90m╔══%R%[36m██%R%[90m╗ %R%[36m██%R%[90m╔═══%R%[36m██%R%[90m╗ ╚%R%[36m██%R%[90m╗%R%[36m██%R%[90m╔╝%R%[0m
-echo  %R%[36m██%R%[90m╔%R%[36m████%R%[90m╔%R%[36m██%R%[90m║  ╚%R%[36m████%R%[90m╔╝  %R%[36m██████%R%[90m╔╝ %R%[36m██%R%[90m║   %R%[36m██%R%[90m║  ╚%R%[36m███%R%[90m╔╝ %R%[0m
-echo  %R%[36m██%R%[90m║╚%R%[36m██%R%[90m╔╝%R%[36m██%R%[90m║   ╚%R%[36m██%R%[90m╔╝   %R%[36m██%R%[90m╔══%R%[36m██%R%[90m╗ %R%[36m██%R%[90m║   %R%[36m██%R%[90m║  %R%[36m██%R%[90m╔%R%[36m██%R%[90m╗ %R%[0m
-echo  %R%[36m██%R%[90m║ ╚═╝ %R%[36m██%R%[90m║    %R%[36m██%R%[90m║    %R%[36m██████%R%[90m╔╝ ╚%R%[36m██████%R%[90m╔╝ %R%[36m██%R%[90m╔╝ %R%[36m██%R%[90m╗%R%[0m
-echo  %R%[90m╚═╝     ╚═╝    ╚═╝    ╚═════╝   ╚═════╝  ╚═╝  ╚═╝%R%[0m
 echo         %R%[90m Spydea Tarafından Hazırlanmıştır.%R%[0m
 echo %R%[90m┌─────────────────────────────────────────────────┐%R%[0m
 echo %R%[90m│%R%[31m  1)%R%[0m League of Legends                           %R%[90m│%R%[0m
@@ -194,3 +214,4 @@ set /p appmenu= %R%[36m ► Yapacağınız İşlem: %R%[0m
 	if %appmenu%==3 (set AppID=leagueoflegendseune& set Title=League of Legends - EUNE&set AppMenu_X_Link=LOL&goto AppMenu)
 	if %appmenu%==x goto AppList
 	if %appmenu%==X goto AppList
+goto LOL
