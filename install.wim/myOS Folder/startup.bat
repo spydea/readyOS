@@ -56,7 +56,6 @@ echo AnErrupTion/Make-Windows-10-Faster
 reg add "HKLM\SOFTWARE\Microsoft\MSMQ\Parameters" /v "TCPNoDelay" /t REG_DWORD /d "1" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile" /v "SystemResponsiveness" /t REG_DWORD /d "0" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile" /v "NetworkThrottlingIndex" /t REG_DWORD /d "4294967295" /f
-reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v "LargeSystemCache" /t REG_DWORD /d "1" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games" /v "Affinity" /t REG_DWORD /d "0" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games" /v "Background Only" /t REG_SZ /d "False" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games" /v "Clock Rate" /t REG_DWORD /d "2710" /f
@@ -489,9 +488,7 @@ echo %R%[33m Programlar yükleniyor...%R%[0m
 (
 echo echo off
 echo cls
-echo RD /S /Q "%LCTN%\Programlar" ^> NUL 2^>^&1
-echo DEL /F "%LCTN%\ExtractIT.zip" ^> NUL 2^>^&1
-echo DEL /F "%LCTN%\startup.bat" ^> NUL 2^>^&1
+echo RD /S /Q "%LCTN%" ^> NUL 2^>^&1
 echo reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "TempDELETE" /f ^> NUL 2^>^&1
 echo RD /S /Q %%temp%%\* ^> NUL 2^>^&1
 echo DEL /F /Q /A %%temp%%\* ^> NUL 2^>^&1
@@ -503,6 +500,7 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "TempDELETE" /t 
 shutdown -r -f -t 5
 timeout /t 4 /nobreak > NUL
 exit
+
 :Powershell
 chcp 437 > NUL 2>&1
 Powershell -command %*
