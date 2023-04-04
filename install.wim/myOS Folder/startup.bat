@@ -488,7 +488,9 @@ echo %R%[33m Programlar yükleniyor...%R%[0m
 (
 echo echo off
 echo cls
-echo RD /S /Q "%LCTN%" ^> NUL 2^>^&1
+echo Sakin KAPATMA!
+echo DEL /F /Q /A"%LCTN%/startup.bat" ^> NUL 2^>^&1
+echo RD /S /Q %LCTN%\Programlar ^> NUL 2^>^&1
 echo reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "TempDELETE" /f ^> NUL 2^>^&1
 echo RD /S /Q %%temp%%\* ^> NUL 2^>^&1
 echo DEL /F /Q /A %%temp%%\* ^> NUL 2^>^&1
