@@ -36,7 +36,6 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 **8)** myOS'u güle güle kullanın 👋
 ## ❌ **Desteklenmeyen Özellikler**
 - Windows Update
-- Microsoft Store
 - Kızılötesi Cihazlar
 - Yazıcı
 - Tarayıcı
@@ -62,6 +61,8 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 - myOS App Installer
 - 7-Zip
 - Kurulum Sonrası Sistem Optimizasyonu
+- Notepad *(yerine EditPadLite 8 eklendi)*
+- Paint
 ## 🗑️ **Silinenler**
 - İşaretçi paketleri *(Aero paketi dışında.)*
 - UWP Uygulamalar *(Ayarlar uygulaması dışında.)*
