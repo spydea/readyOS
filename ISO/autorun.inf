@@ -1,0 +1,7 @@
+[AutoRun.Amd64]
+icon=icon.ico
+label=myOS 2004
+
+[AutoRun]
+icon=icon.ico
+label=myOS 2004
