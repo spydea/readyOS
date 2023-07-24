@@ -5,10 +5,10 @@
 		<Version>2023.6.9292</Version>
 		<Licensed>No</Licensed>
 		<Protections>Yes</Protections>
-		<Host>Windows 10 Pro (20H2) x64 - 10.0.19042.631 (en-US)</Host>
+		<Host>Spydea</Host>
 	</AppInfo>
 	<ImageInfo>
-		<Version mode="offline">Windows 10 Core (20H1) x64 - 10.0.19041.1 (tr-TR)</Version>
+		<Version mode="offline">myOS 2004</Version>
 		<GUID>{DB2D61D0-ADFF-8ED4-72A8-598F674BA861}</GUID>
 	</ImageInfo>
 	<RemoveComponents AppRemovalMode="DISM">
