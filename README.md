@@ -75,7 +75,7 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 - Ekran Okuyucu
 - Büyüteç
 - Yardım ve Destek
-- Bilfirim Merkezi
+- Bildirim Merkezi
 - "❌ **Desteklenmeyen Özellikler**" bölümünde belirtilen diğer herşey...
 ## ❓ **Destek**
 Bana [Discord sunucum](https://discord.io/myos) üzerinden ulaşabilirsiniz.
