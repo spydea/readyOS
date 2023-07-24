@@ -54,10 +54,8 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 ## 🌟 **Değiştirilenler / Eklenenler**
 - Windows Arkaplanı
 - Başlat Menüsü *(tamamen silindi, yerine Open-Shell yüklendi.)*
-- Simge Paketi *(trace isimli simge paketi eklendi.)*
 - All In One Runtimes Paketi
 - IOBit Driver Booster Pro
-- Slimjet Web Browser *(Yüklemek kullanıcı tercihine bırakıldı.)*
 - myOS App Installer
 - 7-Zip
 - Kurulum Sonrası Sistem Optimizasyonu
