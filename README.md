@@ -37,14 +37,13 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 ## 🌟 **Değiştirilenler / Eklenenler**
 - Windows Arkaplanı
 - Başlat Menüsü *(tamamen silindi, yerine Open-Shell yüklendi.)*
-- Simge Paketi *(Lumicons isimli simge paketi entegre edildi.)*
+- Simge Paketi *([Lumicons](https://www.deviantart.com/vantler/art/Lumicons-662277185) isimli simge paketi entegre edildi.)*
 - All In One Runtimes Paketi
 - IOBit Driver Booster Pro
 - myOS App Installer
 - 7-Zip
 - Kurulum Sonrası Sistem Optimizasyonu
-- Notepad *(yerine EditPadLite 8 eklendi)*
-- Paint
+- İşaretçi *([Blackwatch Pointer](https://www.deviantart.com/idarques/art/Blackwatch-Pointer-869527845) eklendi)*
 ## 🗑️ **Silinenler**
 - İşaretçi paketleri *(Aero paketi dışında.)*
 - UWP Uygulamalar *(Ayarlar uygulaması dışında.)*
