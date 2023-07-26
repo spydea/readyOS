@@ -46,7 +46,7 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 - İşaretçi *([Blackwatch Pointer](https://www.deviantart.com/idarques/art/Blackwatch-Pointer-869527845) eklendi)*
 ## 🗑️ **Silinenler**
 - İşaretçi paketleri *(Aero paketi dışında.)*
-- UWP Uygulamalar *(Ayarlar uygulaması dışında.)*
+- UWP Uygulamalar *(Ayarlar ve Microsoft Store dışında.)*
 - Internet Explorer
 - Media Player
 - Yazıcı ve Taryıcı Sürücüleri
