@@ -66,6 +66,5 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 - Windows Hello
 - Microsoft Hesabı
 - Yazıcı ve Tarayıcı Desteği
-- "❌ **Desteklenmeyen Özellikler**" bölümünde belirtilen diğer herşey...
 ## ❓ **Destek**
 Bana [Discord sunucum](https://discord.io/myos) üzerinden ulaşabilirsiniz.
