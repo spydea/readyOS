@@ -34,12 +34,13 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 - Dokunmatik Özellikler
 - Tablet Modu
 - Windows Güvenlik Duvarı
+- Windows Hello
+- Microsoft Hesabı
+- NFC ile Ödeme
 ## 🌟 **Değiştirilenler / Eklenenler**
 - Windows Arkaplanı
 - Başlat Menüsü *(tamamen silindi, yerine Open-Shell yüklendi.)*
 - Simge Paketi *([Lumicons](https://www.deviantart.com/vantler/art/Lumicons-662277185) isimli simge paketi entegre edildi.)*
-- All In One Runtimes Paketi
-- IOBit Driver Booster Pro
 - myOS App Installer
 - 7-Zip
 - Kurulum Sonrası Sistem Optimizasyonu
@@ -59,6 +60,12 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 - Büyüteç
 - Yardım ve Destek
 - Bildirim Merkezi
+- Temalar
+- Windows Update
+- Windows Defender
+- Windows Hello
+- Microsoft Hesabı
+- Yazıcı ve Tarayıcı Desteği
 - "❌ **Desteklenmeyen Özellikler**" bölümünde belirtilen diğer herşey...
 ## ❓ **Destek**
 Bana [Discord sunucum](https://discord.io/myos) üzerinden ulaşabilirsiniz.
