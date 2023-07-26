@@ -8,24 +8,7 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 
 **3)** BOOT menüsü üzerinden USB belleğinizi seçin.
 
-**4)** Sistem USB ile boot edildikten sonra karşınıza bir ekran gelecek. O ekran üzerinden yapmak istediğiniz işlemin numarasını tuşlayın.
-
- <details>
-<summary>🔍 Seçenekler</summary>
-  
-- **Windows'u Kur** *klasik Windows kurulumudur.*
-
-- **AOMEI Partition Assistant** *Disk yönetim aracıdır.*
-
-- **CPU-Z** *Sistem bilgilerini gösterir.*
-
-- **Explorer++** *Dosyalarınızı gezmeye yarar. Klasik dosya gezginin alternatifidir.*
-
-- **Şifre Kurtarma** *ntpwedit64 isimli uygulamadır. Windows hesap şifrenizi yönetmenizi sağlar.*
-
-- **Disk Kurtarma** *recuva64 isimli uygulamadır. Silinen dosyalarınızı geri getirmeye yarar.*
-  
-</details> 
+**4)** Kurulum yapmak için kullanacağınız diski seçin.
 
 **5)** Kurulum tamamlanıp sistem yeniden başladıktan sonra USB belleğinizi çıkartın.
 
@@ -54,6 +37,7 @@ myOS *genel kullanım* için tasarlanmıştır. Sistemde oluşan herhangi bir so
 ## 🌟 **Değiştirilenler / Eklenenler**
 - Windows Arkaplanı
 - Başlat Menüsü *(tamamen silindi, yerine Open-Shell yüklendi.)*
+- Simge Paketi *(Lumicons isimli simge paketi entegre edildi.)*
 - All In One Runtimes Paketi
 - IOBit Driver Booster Pro
 - myOS App Installer
