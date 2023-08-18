@@ -6,7 +6,7 @@
       <img alt="Lisans" src="https://img.shields.io/badge/GPL%203%20-%20GPL%203?style=flat-square&label=Lisans"/>
     </a>
     <a href="https://github.com/spydea/readyOS/graphs/contributors">
-      <img alt="Geliştiriciler" src="https://img.shields.io/badge/3%20-%202?style=flat-square&label=Geli%C5%9Ftiriciler" />
+      <img alt="Geliştiriciler" src="https://img.shields.io/badge/4%20-%202?style=flat-square&label=Geli%C5%9Ftiriciler" />
     </a>
     <a href="https://ReadyOS-os.github.io">
       <img alt="Son Sürüm" src="https://img.shields.io/badge/Never%20-%2009%2008%2023?style=flat-square&label=Son%20S%C3%BCr%C3%BCm" />
