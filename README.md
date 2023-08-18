@@ -5,7 +5,7 @@
     <a href="https://github.com/ReadyOS-OS/ReadyOSOS/blob/main/LICENSE">
       <img alt="Lisans" src="https://img.shields.io/badge/GPL%203%20-%20GPL%203?style=flat-square&label=Lisans"/>
     </a>
-    <a href="https://github.com/orgs/ReadyOS-OS/people">
+    <a href="https://github.com/orgs/ReadyOS/people">
       <img alt="Geliştiriciler" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Geli%C5%9Ftiriciler" />
     </a>
     <a href="https://ReadyOS-os.github.io">
@@ -22,7 +22,7 @@
   •
   <a href="https://comingsoon.ReadyOS-os.github.io">Dokümantasyon</a>
   •
-  <a href="https://discord.gg/jb2mB4JZav" target="_blank">Discord</a>
+  <a href="https://dsc.gg/myos" target="_blank">Discord</a>
 </p>
 
 ## 🤔 **ReadyOS nedir?**
