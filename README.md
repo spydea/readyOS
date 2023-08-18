@@ -25,12 +25,12 @@
   <a href="https://discord.gg/jb2mB4JZav" target="_blank">Discord</a>
 </p>
 
-## 🤔 **ReadyOSOS nedir?**
+## 🤔 **ReadyOS nedir?**
 
 ReadyOSOS Windows 10'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. ReadyOSOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. ReadyOSOS hakkında daha fazla bilgiyi [sitemizden](https://ReadyOS-os.github.io) öğrenebilirsiniz.
 
 
-## 👀 **Neden ReadyOSOS?**
+## 👀 **Neden ReadyOS?**
 
 ### 🔒 Daha gizlilik odaklı
 Stok Windows sizin bilgilerinizi toplayan ve Microsoft'a gönderen servisler içerir.
