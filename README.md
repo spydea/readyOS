@@ -25,24 +25,24 @@
   <a href="https://dsc.gg/myos" target="_blank">Discord</a>
 </p>
 
-## 🤔 **ReadyOS nedir?**
+## 🤔 **readyOS nedir?**
 
-ReadyOSOS Windows 10'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. ReadyOSOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. ReadyOSOS hakkında daha fazla bilgiyi [sitemizden](https://ReadyOS-os.github.io) öğrenebilirsiniz.
+ReadyOS Windows 10'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://ReadyOS-os.github.io) öğrenebilirsiniz.
 
 
-## 👀 **Neden ReadyOS?**
+## 👀 **Neden readyOS?**
 
 ### 🔒 Daha gizlilik odaklı
 Stok Windows sizin bilgilerinizi toplayan ve Microsoft'a gönderen servisler içerir.
-ReadyOSOS Windows'a gömülü bir şekilde gelen bilgi toplama servislerinin hepsini kaldırır ve grup ilkeleri ile bilgi toplamayı en aza çekmeyi amaçlar.
+readyOS Windows'a gömülü bir şekilde gelen bilgi toplama servislerinin hepsini kaldırır ve grup ilkeleri ile bilgi toplamayı en aza çekmeyi amaçlar.
 
-ReadyOS'ın Windows'un kontrolünde olmayan şeylerde (tarayıcılar ve üçüncü parti uygulamalar gibi) güvenliğinizi sağlayamayacağını unutmayın.
+readyOS'ın Windows'un kontrolünde olmayan şeylerde (tarayıcılar ve üçüncü parti uygulamalar gibi) güvenliğinizi sağlayamayacağını unutmayın.
 
 ### 🚀 Daha fazla alan
-Hazır gelen uygulamalar ve diğer önemsiz bileşenler ReadyOSOS'da kaldırıldı. Uyumluluk sorunlarına nazaran, indirdiğiniz boyutu önemli ölçüde düşürüyor ve sisteminizi daha akıcı yapıyor. Bu nedenle bazı özellikler (Windows Defender gibi) komple kaldırıldı.
+Hazır gelen uygulamalar ve diğer önemsiz bileşenler readyOS'da kaldırıldı. Uyumluluk sorunlarına nazaran, indirdiğiniz boyutu önemli ölçüde düşürüyor ve sisteminizi daha akıcı yapıyor. Bu nedenle bazı özellikler (Windows Defender gibi) komple kaldırıldı.
 
 ### ✅ Daha fazla performans
-İnternette dolaşan bazı düzenlenmiş sistemler Windows'u o kadar düzenliyor ki, önemli olan Bluetooth, Wi-Fi gibi özelliklerin uyumluluğunu bozuyorlar. ReadyOS tam ortasını, iyi bir performans alırken iyi seviyede bir uyumluluk da hedefliyor.
+İnternette dolaşan bazı düzenlenmiş sistemler Windows'u o kadar düzenliyor ki, önemli olan Bluetooth, Wi-Fi gibi özelliklerin uyumluluğunu bozuyorlar. readyOS tam ortasını, iyi bir performans alırken iyi seviyede bir uyumluluk da hedefliyor.
 
 Windows'u geliştirmek için yaptığımız bazı değişiklikler:
 - Kişiselleştirilmiş güç planı
