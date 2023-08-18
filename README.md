@@ -5,7 +5,7 @@
     <a href="https://github.com/ReadyOS-OS/ReadyOSOS/blob/main/LICENSE">
       <img alt="Lisans" src="https://img.shields.io/badge/GPL%203%20-%20GPL%203?style=flat-square&label=Lisans"/>
     </a>
-    <a href="https://github.com/orgs/ReadyOS/people">
+    <a href="https://github.com/spydea/readyOS/graphs/contributors">
       <img alt="Geliştiriciler" src="https://img.shields.io/badge/3%20-%202?style=flat-square&label=Geli%C5%9Ftiriciler" />
     </a>
     <a href="https://ReadyOS-os.github.io">
