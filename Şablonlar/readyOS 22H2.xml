@@ -5,10 +5,10 @@
 		<Version>2023.7.9371</Version>
 		<Licensed>No</Licensed>
 		<Protections>Yes</Protections>
-		<Host>Windows Embedded 8.1 Industry Pro (U3) x64 - 6.3.9600.20269 (tr-TR)</Host>
+		<Host>Spydea</Host>
 	</AppInfo>
 	<ImageInfo>
-		<Version mode="offline">Windows 10 Core (22H2) x64 - 10.0.19045.2965 (tr-TR)</Version>
+		<Version mode="offline">readyOS 22H2</Version>
 		<GUID>{BC21B218-69A0-4797-8204-2A358366BE02}</GUID>
 	</ImageInfo>
 	<RemoveComponents AppRemovalMode="DISM">
@@ -552,8 +552,8 @@
 			<Task>imageSaveRebuild</Task>
 			<Task>imageFormatWim</Task>
 		</ImageTasks>
-		<AutoIsoFile>NTLite.iso</AutoIsoFile>
-		<AutoIsoLabel>NTLite</AutoIsoLabel>
+		<AutoIsoFile>readyOS.iso</AutoIsoFile>
+		<AutoIsoLabel>readyOS 22H2</AutoIsoLabel>
 		<AutoSplitSize>4000</AutoSplitSize>
 		<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
 		<OptimizeAppX>false</OptimizeAppX>
