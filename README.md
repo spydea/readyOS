@@ -22,7 +22,7 @@
 
 ## 🤔 **readyOS nedir?**
 
-readyOS Windows 10'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://spydea.blogspot.com/2023/08/readyos.html) öğrenebilirsiniz.
+readyOS Windows 10'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://ready-os.github.io/) öğrenebilirsiniz.
 
 
 ## 👀 **Neden readyOS?**
