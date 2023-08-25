@@ -46,7 +46,6 @@ Windows'u geliştirmek için yaptığımız bazı değişiklikler:
 - Gereksiz cihazlar devre dışı bırakıldı
 - Pil koruma devre dışı bırakıldı (laptoplar için)
 - Performansa olumsuz etki eden güvenlik hafifletmeleri devre dışı bırakıldı
-- Bütün cihazlarda MSI modu otomatik olarak aktifleştirildi
 - Optimize edilmiş önyükleme yapılandırması
 - Optimize edilmiş işlem planlaması
 
