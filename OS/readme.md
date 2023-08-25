@@ -1,0 +1,1 @@
+install dosyasının mount dizini.
