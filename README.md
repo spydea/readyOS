@@ -5,11 +5,11 @@
     <a href="https://github.com/spydea/readyOS/graphs/contributors">
       <img alt="Geliştiriciler" src="https://img.shields.io/badge/2%20-%202?style=flat-square&label=Geli%C5%9Ftiriciler" />
     </a>
-    <a href="https://ready-os.github.io/">
+    <a href="https://drive.google.com/drive/folders/1DpMk2x73jV4DQ54WjtTZWD_sJwNZXOnc?usp=sharing">
       <img alt="Son Sürüm" src="https://img.shields.io/badge/22H2 v1%20-%2009%2008%2023?style=flat-square&label=Son%20S%C3%BCr%C3%BCm" />
     </a>
     <a href="https://ready-os.github.io/">
-      <img alt="İndirmeler" src="https://img.shields.io/badge/22H2 v1-%202K?style=flat-square&label=%C4%B0ndir" />
+      <img alt="İndir" src="https://img.shields.io/badge/22H2 v1-%202K?style=flat-square&label=%C4%B0ndir" />
     </a>
   </p>
 <h4 align="center">Açık kaynaklı ve şeffaf bir işletim sistemi, performans, gizlilik ve kararlılık için tasarlandı</h4>
