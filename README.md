@@ -24,6 +24,23 @@
 
 readyOS Windows 10'un düzenlenmiş, oyun performansını olumsuz etkileyen tüm bileşenlerin kaldırılmış bir halidir. readyOS, performansa odaklanırken ayrıca; sistem gecikmesi, ağ gecikmesi, giriş gecikmesi (input lag) ve sistem güvenliği için de iyi bir seçenektir. readyOS hakkında daha fazla bilgiyi [sitemizden](https://ready-os.github.io/) öğrenebilirsiniz.
 
+## 📥 **Nasıl İndirilir?**
+
+1) readyOS ISO dosyasını indirip Rufus aracılığı ile USB belleğinize yazdırın.
+
+2) Sisteminizi yeniden başlatın ve BOOT menünüze giriş yapın.
+
+3) BOOT menüsü üzerinden USB belleğinizi seçin.
+
+4) Kurulum yapmak için kullanacağınız diski seçin.
+
+5) Kurulum tamamlanıp sistem yeniden başladıktan sonra USB belleğinizi çıkartın.
+
+6) Kurulum sonrası sisteminiz birkaç kere yeniden başlayabilir, sabırlı olun.
+
+7) Sistem açıldıktan sonra karşınıza gelen pencereyi sakın kapatmayın!
+
+8) readyOS'u güle güle kullanın 👋
 
 ## 👀 **Neden readyOS?**
 
