@@ -1,1 +1,0 @@
-boot dosyasının mount dizini.
